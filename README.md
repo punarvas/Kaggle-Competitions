@@ -1,1 +1,3 @@
-# Kaggle competitions
+Kaggle competitions
+-----
+Welcome to our repository!
